@@ -3,7 +3,7 @@
 
 # The Constitution
 
-This is the one and only [United States Constitution](constitution.md),
+This is the one and only [United States Constitution](usconstitution.md),
 reimagined in the technology built for managing living documents: git.
 
 Each time the constitution changed, it's a new commit.
