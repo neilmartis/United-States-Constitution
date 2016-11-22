@@ -1,6 +1,5 @@
-# UnitedStatesConstitution
-The U.S. Constitution, with each amendment as a commit.
-
+# The Constitution of the United States
+ 
 
 # The Constitution
 
